@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/ico"/>
+    <qresource prefix="/icon">
+        <file>search.png</file>
+    </qresource>
+    <qresource prefix="/db"/>
+    <qresource prefix="/database">
+        <file>etc_projects.db</file>
+    </qresource>
+</RCC>
